@@ -1,0 +1,1 @@
+<view><view class="block"></view><view class="QR"><image src="../../../static/img/meqcode.jpg"></image></view><view class="title">扫码加好友</view><view data-event-opts="{{[['tap',[['handleSavePhotos',['$event']]]]]}}" hidden="{{!(showBth)}}" class="btn" bindtap="__e">{{''+savePhotos+''}}</view></view>
